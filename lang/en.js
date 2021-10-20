@@ -6,7 +6,7 @@ announce: {
   suggest: "You can also change the color by doing .embed <color> Like RED"
 },
 ban: {
-perms: "I dont have have perms",
+perms: "I dont have have perms",               
 user: "You didnt Give me A member to ban",
 reason: "No Reason Given",
 msg: "Banned this user"
